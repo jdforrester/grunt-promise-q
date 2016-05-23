@@ -35,11 +35,11 @@
     "grunt-contrib-jshint": "~0.8.0",
     "grunt-contrib-clean": "~0.5.0",
     "grunt-contrib-nodeunit": "~0.3.0",
-    "grunt": "~0.4.1",
+    "grunt": ">= 0.4.1",
     "q-io": "~1.10.1"
   },
   "peerDependencies": {
-    "grunt": "~0.4.1"
+    "grunt": ">= 0.4.1"
   },
   "keywords": [
     "grunt",
